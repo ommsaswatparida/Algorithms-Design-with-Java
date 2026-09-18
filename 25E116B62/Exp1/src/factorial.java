@@ -8,6 +8,6 @@ class factorial {
         for (int i = 1; i <= n; i++) {
             fact *= i;
         }
-        System.out.println ("The factorial for the number is " + fact);
+        System.out.println ("The factorial for the number is" + fact);
     }
 }
